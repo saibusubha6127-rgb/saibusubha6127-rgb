@@ -7,6 +7,8 @@ AI/ML Engineer in Progress | Computer Vision Developer | Building Real-Time Inte
 <img align="right" alt="AI Developer" width="400"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFkZjIzdXV3bTVucHNpZjk2YzV2azJxcWl6Nm1kbjZkaHppbnlyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif">
 
+
+
 ### 👨‍💻 About Me
 
 🎓 B.Tech CSE (AI & ML) @ Silicon University (CGPA: 8.33)
@@ -39,11 +41,21 @@ OpenCV-powered motion detection application with optimized contour analysis.
 🔹 Thyroid Disease Classification
 Machine Learning pipeline for medical diagnosis using Scikit-Learn.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/subhakant.mohanty.94) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhakant.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhakant-mohanty-131340196/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@explorewheel2853) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saibusubha6127@gmail.com) 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhakant-mohanty-131340196/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/saibusubha6127-rgb)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/subhakant.m)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@explorewheel2853)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/subhakant.mohanty.94)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:subhakantsibu6127@gmail.com)
 
 # 💻 Tech Stack:
-## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
