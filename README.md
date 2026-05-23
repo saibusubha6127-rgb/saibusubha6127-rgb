@@ -32,8 +32,23 @@ I love transforming ideas into intelligent applications using AI and code.
 
 ## 🚀 Featured Projects
 
-🔹 SafetyVision Pro
+🔹 SafetyVision Pro 🚗
 Real-time driver monitoring system using TensorFlow.js and MediaPipe.
+
+## 📸 SafetyVision Pro Gallery
+
+### Driver Monitoring Dashboard
+
+<p align="center">
+  <img src="dashboard.png" width="80%">
+</p>
+
+### Detection Results
+
+<p align="center">
+  <img src="drowsy-detection.png" width="48%">
+  <img src="truck-detection.png" width="48%">
+</p>
 
 🔹 Real-Time Motion Detection System
 OpenCV-powered motion detection application with optimized contour analysis.
